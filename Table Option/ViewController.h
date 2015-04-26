@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController<UITableViewDelegate, UITableViewDataSource>
+
 @property (strong, nonatomic) NSMutableArray *list;
 
+@property (nonatomic,weak)IBOutlet UITableView *myTableView;
 
 @end

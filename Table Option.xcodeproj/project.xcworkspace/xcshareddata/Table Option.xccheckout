@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>104BC405-48C8-466A-8D12-713000928A29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Table Option</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7240D619652348B521FC0847F068487B51ABD8DC</key>
+		<string>https://github.com/various/Table-Option-Delete.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Table Option.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7240D619652348B521FC0847F068487B51ABD8DC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/various/Table-Option-Delete.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7240D619652348B521FC0847F068487B51ABD8DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7240D619652348B521FC0847F068487B51ABD8DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Table-Option-Delete</string>
+		</dict>
+	</array>
+</dict>
+</plist>
