@@ -26,6 +26,7 @@
     [self.window makeKeyAndVisible];
     //change in developer mode
     NSLog(@"change in develop mode");
+    ////////////
     return YES;
 }
 
